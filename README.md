@@ -1,0 +1,6 @@
+# Animated-TV-Show-Predictions
+
+For our project we have decided to create a model that will be able to predict the IMDb rating of an animated TV show based on its TV-age-rating, included genres, and number of LGBTQ characters.  We have found a dataset that has data for every animation TV show since the 1990’s that has at least one confirmed LGBTQ character.  We plan to create our own dataset of all animated shows since the 1990’s by web scraping the IMDb website, in this process, we will also be able to add a column for genre of the LGBTQ shows by comparing their IMDb unique title. We are expecting to find a relationship between the number of LGBTQ characters in a show and its predicted rating. This project may also show if one genre of animated TV shows is more popular than another. In the end, we will be able to predict the elements needed to create a animated TV show that appeals to the public. If there is further time, we can also work to predict the duration of the show (from 1st to last episode) or see if the predicted results change if we train on newer TV shows vs older TV shows.   
+
+This is a link to the dataset we want to build onto:   
+[LGBT Representation in Animated Shows in the US](https://www.kaggle.com/datasets/anwilson/lgbtq-representation-in-animated-shows-in-the-us?select=20220601-LGBTQ-character-demographics-v3.csv) 
